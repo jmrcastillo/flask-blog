@@ -122,3 +122,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+blog/static/photos/*.jpg
+blog/static/photos/*.py
